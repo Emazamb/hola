@@ -1,1 +1,43 @@
-[{"name":"7 Zip", "version":"23.01", "size":"1.40 MB", "link":"https://www.7-zip.org/a/7z2201.exe", "category":"Utiles"}, {"name":"7 Zip x64", "version":"22.01", "size":"1.40 MB", "link":"https://www.7-zip.org/a/7z2201-x64.exe", "category":"Utiles"}]
+[
+	{"name":"Brave Browser",
+	 "version":"107.1.45.127",
+	 "size":"105,26 MB",
+	 "link":"https://github.com/brave/brave-browser/releases/download/v1.45.127/BraveBrowserStandaloneSilentSetup.exe",
+	 "category":"Navegadores",
+	"flag":""
+	},
+	
+	{"name":"Microsoft Edge",
+	 "version":"107.0.1 418.52",
+	 "size":"136.55 MB",
+	 "link":"https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/48bd506a-8959-4d3c-aeff-5c9fc1587a18/MicrosoftEdgeEnterpriseX64.msi",
+	 "category":"Navegadores",
+	"flag":"/S"
+	},
+	
+	{"name":"Google Chrome",
+	 "version":"107.0.5304.107",
+	 "size":"91.68 MB",
+	 "link":"https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BE9DCC35B-F8D5-173E-15F3-64E57CE37389%7D%26lang%3Den%26browser%3D5%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dtrue%26ap%3Dx64-stable-statsdef_0%26brand%3DGCEA/dl/chrome/install/googlechromestandaloneenterprise64.msi",
+	 "category":"Navegadores",
+	 "flag":"/S"
+	},
+	
+	{"name":"Opera Browser",
+	 "version":"93.0.4585.11",
+	 "size":"93.49 MB",
+	 "link":"https://download5.operacdn.com/pub/opera/desktop/93.0.4585.11/win/Opera_93.0.4585.11_Setup_x64.exe",
+	 "category":"Navegadores",
+	 "flag":"/silent /allusers=1 /launchopera=0"
+	}
+	
+	{"name":"Opera GX Browser",
+	 "version":"92.0.4561.64",
+	 "size":"122.50 MB",
+	 "link":"https://download3.operacdn.com/pub/opera_gx/92.0.4561.64/win/Opera_GX_92.0.4561.64_Setup_x64.exe",
+	 "category":"Navegadores",
+	 "flag":"/silent /allusers=1 /launchopera=0"
+	}
+	
+	 
+]
