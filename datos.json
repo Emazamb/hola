@@ -29,7 +29,7 @@
 	 "link":"https://download5.operacdn.com/pub/opera/desktop/93.0.4585.11/win/Opera_93.0.4585.11_Setup_x64.exe",
 	 "category":"Navegadores",
 	 "flag":"/silent /allusers=1 /launchopera=0"
-	}
+	},
 	
 	{"name":"Opera GX Browser",
 	 "version":"92.0.4561.64",
