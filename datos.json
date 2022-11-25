@@ -8,7 +8,7 @@
 	},
 	
 	{"name":"Microsoft Edge",
-	 "version":"107.0.1 418.52",
+	 "version":"107.0.1418.52",
 	 "size":"136.55 MB",
 	 "link":"https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/48bd506a-8959-4d3c-aeff-5c9fc1587a18/MicrosoftEdgeEnterpriseX64.msi",
 	 "category":"Navegadores",
@@ -37,7 +37,45 @@
 	 "link":"https://download3.operacdn.com/pub/opera_gx/92.0.4561.64/win/Opera_GX_92.0.4561.64_Setup_x64.exe",
 	 "category":"Navegadores",
 	 "flag":"/silent /allusers=1 /launchopera=0"
-	}
+	},
 	
-	 
+	{"name":"Mozilla Firefox",
+	 "version":"107.0",
+	 "size":"55 MB",
+	 "link":"https://download-installer.cdn.mozilla.net/pub/firefox/releases/107.0/win64/es-ES/Firefox%20Setup%20107.0.exe",
+	 "category":"Navegadores",
+	 "flag":""
+	},
+	
+	{"name":"LibreWolf",
+	 "version":"105.0.3",
+	 "size":"120.87 MB",
+	 "link":"https://gitlab.com/librewolf-community/browser/windows/uploads/f5c35c96a94b78ac847f19f6c3d3e49e/librewolf-105.0.3-1.en-US.win64-setup.exe",
+	 "category":"Navegadores",
+	 "flag":"/S"
+	},
+	
+	{"name":"Vivaldi",
+	 "version":"5.5.2805.38",
+	 "size":"85.88 MB",
+	 "link":"https://downloads.vivaldi.com/stable/Vivaldi.5.5.2805.38.x64.exe",
+	 "category":"Navegadores",
+	 "flag":"/S"
+	},
+	
+	{"name":"AIMP",
+	 "version":"5.10.2414",
+	 "size":"18 MB",
+	 "link":"https://aimp.ru/files/windows/builds/aimp_5.10.2414_w64.exe",
+	 "category":"Multimedia",
+	 "flag":"/Auto /SILENT"
+	},
+	
+	{"name":"PotPlayer",
+	 "version":"1.7.21831",
+	 "size":"32.63 MB",
+	 "link":"https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe",
+	 "category":"Multimedia",
+	 "flag":"/S"
+	}
 ]
